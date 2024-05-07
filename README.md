@@ -1,15 +1,19 @@
-# Mini-blog-jsdeveloper - 
+# Mini-blog-jsdeveloper 
 
-Pacs de instalação necessários:
-•React-dom;
+_________________________________________<br>
+Pacs de instalação necessários:<br>
+•React-dom;<br>
 •Context-api.
 
-Criação do projeto:
-•npm create vite@latest;
+_________________________________________<br>
+Criação do projeto:<br>
+•npm create vite@latest;<br>
 •npm run dev.
 
-Utilizado como authentication e database:
+_________________________________________<br>
+Utilizado como authentication e database:<br>
 •fireBase.
 
-Utilizado em styles:
+_________________________________________<br>
+Utilizado em styles:<br>
 •CSS Module.css.
