@@ -1,0 +1,33 @@
+.login {
+  text-align: center;
+
+  p {
+    color: #aaa;
+  }
+}
+.registrarLogin {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 2rem;
+}
+
+@media only screen and (max-width: 425px) {
+  .containerLogin {
+    display: flex;
+    flex-direction: column;
+  }
+  .containerForm {
+    display: flex;
+    flex-direction: column;
+
+    label {
+      width: 18rem;
+    }
+  }
+
+  .containerFormPrincipal {
+    display: flex;
+    margin-right: 15rem;
+  }
+}

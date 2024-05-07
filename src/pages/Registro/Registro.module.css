@@ -1,0 +1,26 @@
+.register {
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+
+@media only screen and (max-width: 425px) {
+  .containerRegister {
+    display: flex;
+    flex-direction: column;
+  }
+  .containerForm {
+    display: flex;
+    flex-direction: column;
+
+    label {
+      width: 18rem;
+    }
+  }
+
+  .containerFormPrincipal {
+    display: flex;
+    margin-right: 15rem;
+  }
+}
